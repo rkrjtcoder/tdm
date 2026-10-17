@@ -1,2 +1,2 @@
 # tdm
-The whole world for the dotmazz
+The whole world for the dotmaze
